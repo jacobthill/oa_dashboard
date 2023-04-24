@@ -3,5 +3,8 @@ channles:
 dependencies:
   - streamlit
   - pandas==1.5.0
-  - pickle==0.7.5
-  - seaborn==0.12.0
+  - pickleshare=0.7.5=pyhd3eb1b0_1003
+  - seaborn=0.12.0=py310hecd8cb5_0
+  - matplotlib-venn==0.11.9
+  - matplotlib-base=3.5.3=py310hfb0c5b7_0
+  - matplotlib-inline=0.1.6=py310hecd8cb5_0
