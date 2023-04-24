@@ -3,7 +3,6 @@ channles:
 dependencies:
   - streamlit
   - pandas
-  - pickle
+  - pickle5
   - matplotlib
-  - matplotlib-venn
   - seaborn
